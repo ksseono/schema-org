@@ -8,7 +8,7 @@ One more thing may cause confusion is about [supersededBy](http://meta.0.3-2f.sc
 Following these considerations, I revised the model again based on TopQuadrant proposed, as follows: 
   * replace 'schema:inverseOf' to 'owl:inverseOf'
   * remove all the properties which includes 'supersededBy' restriction.
-  * remove two annotation property: 'schema:inverseOf' and 'schema:supersededBy'
+  * remove two annotation properties: 'schema:inverseOf' and 'schema:supersededBy'
 
 # License
 Licensed under the terms of service documented [here](http://schema.org/docs/terms.html), which follows [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
