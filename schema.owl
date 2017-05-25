@@ -9,7 +9,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     <owl:Ontology rdf:about="http://seonho.kim/ontology/schema/">
         <owl:priorVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">converted to OWL by TopQuadrant at 2016-08-15T13:11:33.595+10:00</owl:priorVersion>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v1.0 - 2017/05/25</owl:versionInfo>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v1.0.0 - 2017/05/25</owl:versionInfo>
         <rdfs:seeAlso rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://topbraid.org/schema/</rdfs:seeAlso>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schema.org (revised by Seonho)</rdfs:label>
     </owl:Ontology>
