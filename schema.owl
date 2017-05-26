@@ -11,7 +11,7 @@
         <owl:priorVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">converted to OWL by TopQuadrant at 2016-08-15T13:11:33.595+10:00</owl:priorVersion>
         <rdfs:seeAlso rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://topbraid.org/schema/</rdfs:seeAlso>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schema.org (revised by Seonho)</rdfs:label>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v1.0.0 - 2017/05/25</owl:versionInfo>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v1.0.1 - 2017/05/26</owl:versionInfo>
     </owl:Ontology>
     
 
